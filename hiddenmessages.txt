@@ -1,0 +1,3 @@
+zero, five, six, seven, one, twenty-four
+eight, nine, thirty-three, four, ninety-nine
+six, three, twelve, eighty-four, seven, seven
